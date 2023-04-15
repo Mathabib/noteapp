@@ -1,0 +1,2 @@
+# noteapp
+ini aplikasi note
